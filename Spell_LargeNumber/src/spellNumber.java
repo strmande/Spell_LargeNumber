@@ -1,6 +1,4 @@
-// SayMyLargeNumber.java
-// CSCI 1302
-// Project 3
+
 // 11-21-2020
 import java.util.InputMismatchException;
 import java.util.Scanner;
